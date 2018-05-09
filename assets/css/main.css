@@ -2195,6 +2195,15 @@
 		margin: 0 0 2.25em 0;
 	}
 
+	.excellent-skills {
+		display: flex;
+		list-style: none;
+	}
+
+	excellent-skills > li {
+		list-style: none;
+	}
+
 /* Table */
 
 	.table-wrapper {
