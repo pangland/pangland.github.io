@@ -2200,8 +2200,8 @@
 		list-style: none;
 	}
 
-	excellent-skills > li {
-		list-style: none;
+	.excellent-skills > li {
+		list-style: none ;
 	}
 
 /* Table */
